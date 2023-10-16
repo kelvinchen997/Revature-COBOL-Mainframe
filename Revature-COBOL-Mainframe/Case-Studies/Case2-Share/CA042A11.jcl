@@ -1,0 +1,2 @@
+  PRINT INFILE(DD1) -
+  COUNT(1)

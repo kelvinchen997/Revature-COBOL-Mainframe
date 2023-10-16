@@ -1,0 +1,2 @@
+  SORT FIELDS=(1,5,CH,A)
+  OMIT COND=(1,5,CH,EQ,C'     ')
